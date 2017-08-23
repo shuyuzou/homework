@@ -1,0 +1,10 @@
+D:\CS289text\homework_2\homework_2\bin\Debug\homework_2.exe.config
+D:\CS289text\homework_2\homework_2\bin\Debug\homework_2.exe
+D:\CS289text\homework_2\homework_2\bin\Debug\homework_2.pdb
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.csprojResolveAssemblyReference.cache
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.pokemon.resources
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.Properties.Resources.resources
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.csproj.GenerateResource.Cache
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.csproj.CoreCompileInputs.cache
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.exe
+D:\CS289text\homework_2\homework_2\obj\Debug\homework_2.pdb
